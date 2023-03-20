@@ -7,9 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+public
+src
+index.html
+
+
+
 node_modules
-dist
-dist-ssr
+
 *.local
 
 # Editor directories and files
