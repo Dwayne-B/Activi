@@ -39,7 +39,7 @@ function Form() {
 		maxBudget,
 		participants,
 	}) => {
-		const url = `http://www.boredapi.com/api/activity?type=${formData.category}&
+		const url = `https://www.boredapi.com/api/activity?type=${formData.category}&
 		&participants=${formData.participants}&minprice=${formData.minBudget}&maxprice=${formData.maxBudget}&minaccessibility=${formData.minAccessibility}&maxaccessibility=${formData.maxAccessibility}`;
 		console.log(url);
 		fetch(url)
