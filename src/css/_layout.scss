@@ -7,12 +7,17 @@
 .nav {
 	height: 65px;
 	background-color: var(--primary-color);
-	width: 100%;
+	// width: 100%;
+	max-width: 600px;
+	margin: auto;
 	display: flex;
 	align-items: center;
 	margin-bottom: u.toRem(60);
 }
 .form {
+	max-width: 600px;
+	margin: auto;
+
 	.progressbar {
 		height: 25px;
 		background-color: white;
