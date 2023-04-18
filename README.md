@@ -4,7 +4,8 @@
 A React multi-step form that will suggest an activity to help cure your boredom.
 ---
 ## Metrics
-
+ ![activi metrics](https://i.ibb.co/gVMCH44/activi-metrics.png)
+---
 ## Installation
 git clone -> npm install
 
