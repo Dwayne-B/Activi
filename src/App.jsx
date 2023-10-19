@@ -1,6 +1,6 @@
 import { useContext } from 'react';
-import Form from './components/Form';
-import Nav from './components/Nav';
+import Form from './Components/Form';
+import Nav from './Components/Nav';
 import { FormProvider } from './Context/FormContext.jsx';
 import './css/App.scss';
 function App() {
