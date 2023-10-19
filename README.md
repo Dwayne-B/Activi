@@ -19,10 +19,9 @@ Builds the app for production to the dist folder.
 
 Components:
 - Nav
-- Form 
- * each component controls the coressponding form input. *
-- Accessibility
-- Activity
-- Budget
-- Category
-- Participants
+- Form
+  - Accessibility
+  - Activity
+  - Budget
+  - Category
+  - Participants
